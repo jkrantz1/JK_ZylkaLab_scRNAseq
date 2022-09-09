@@ -1,2 +1,2 @@
-# jkrantz1-ZylkaLab_scRNAseq
+# JK_ZylkaLab_scRNAseq
 Learn how to analyze scRNAseq data!
